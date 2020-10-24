@@ -7,3 +7,7 @@ ESP Home:
 
 HVAC IR Control (Arduino and Python on RPi):
 - https://github.com/r45635/HVAC-IR-Control
+
+ToniA heatpump IR code:
+- https://github.com/ToniA/Raw-IR-decoder-for-Arduino
+- https://github.com/ToniA/arduino-heatpumpir
